@@ -194,17 +194,6 @@ graph TD
 
 ---
 
-## 🔗 Related Documentation
-
-| Document | Focus Area |
-|----------|------------|
-| [`README.md`](../README.md) | Project overview and quick start |
-| [`design_doc.md`](../design_doc.md) | Architecture and design principles |
-| [`CHEATSHEET.md`](../CHEATSHEET.md) | Command reference and shortcuts |
-| [`arch_blueprint.md`](../arch_blueprint.md) | Technical architecture diagrams |
-
----
-
 ## 🎯 Next Steps
 
 - **Explore**: Start with `python cli_control.py` for interactive mode

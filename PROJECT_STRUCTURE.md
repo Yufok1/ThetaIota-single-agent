@@ -1,10 +1,3 @@
-# Project Structure (ThetaIota) 🏗️
-
-├── 🚀 User Interfaces
-│   ├── ⌨️ cli_control.py           # Enhanced CLI with flexible input handling
-│   ├── 🌐 server_main.py          # FastAPI REST API server
-│   └── 🐚 phase3_shell.py         # Advanced shell interfacete file map and organization for the ThetaIota### Key Features by Component
-
 #### Enhanced CLI (`cli_control.py`)
 - **Flexible input handling** for single-line and multi-line text
 - **Mode switching** (`!lm`, `!reflect`) during conversations
